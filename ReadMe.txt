@@ -1,5 +1,5 @@
 Simple Multi-Threaded Web Server
-Ashutosh Mahajan N15565485 abm523
+
 
 This implementation uses simple Java Sockets and predefined HTML pages.
 The implementation is capable of opening multiples web-pages on a single server/port with the help of Threads.
